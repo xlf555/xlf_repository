@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.ImageWatermarker</mainClass>
+                            <mainClass>com.example.ImageWatermarker2</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
